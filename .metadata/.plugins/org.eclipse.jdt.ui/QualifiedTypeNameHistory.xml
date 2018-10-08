@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.sun.tracing.dtrace.ModuleName"/>
+<fullyQualifiedTypeName name="javax.faces.bean.SessionScoped"/>
+<fullyQualifiedTypeName name="javax.faces.bean.ManagedBean"/>
+<fullyQualifiedTypeName name="javax.faces.bean.ViewScoped"/>
+<fullyQualifiedTypeName name="br.com.caelum.livraria.bean.VendaBean"/>
+<fullyQualifiedTypeName name="br.com.caelum.livraria.modelo.Venda"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="br.com.caelum.livraria.modelo.Livro"/>
+<fullyQualifiedTypeName name="br.com.caelum.livraria.dao.DAO"/>
+<fullyQualifiedTypeName name="java.util.Random"/>
+<fullyQualifiedTypeName name="org.primefaces.model.chart.ChartSeries"/>
+<fullyQualifiedTypeName name="org.primefaces.model.chart.BarChartModel"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+</qualifiedTypeNameHistroy>
